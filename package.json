@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "helloWorld":"node helloWorld"
+    "helloWorld": "node helloWorld",
+    "expressExample": "node expressExample"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/AlejandroReyes1998/tests-graphql#readme",
   "dependencies": {
-    "graphql": "^16.7.1"
+    "express": "^4.18.2",
+    "graphql": "^16.7.1",
+    "graphql-http": "^1.20.0"
   }
 }

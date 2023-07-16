@@ -14,7 +14,7 @@ const rootValue = {
   },
 }
 
-//Se manda a llamar el programa con el objeto que definimos previamente
+//Se manda a llamar el programa con el query que definimos previamente
 graphql({
   schema,
   source: "{ hello }",
