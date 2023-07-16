@@ -1,0 +1,23 @@
+{
+  "name": "tests-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "helloWorld":"node helloWorld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroReyes1998/tests-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroReyes1998/tests-graphql/issues"
+  },
+  "homepage": "https://github.com/AlejandroReyes1998/tests-graphql#readme",
+  "dependencies": {
+    "graphql": "^16.7.1"
+  }
+}
